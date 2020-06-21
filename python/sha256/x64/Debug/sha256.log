@@ -1,0 +1,9 @@
+﻿  sha256.cpp
+c:\users\bigol\desktop\repos\udes\ift630\projet\python\sha256\sha256.h(154): warning C4244: '=': conversion from 'unsigned __int64' to 'BYTE', possible loss of data
+c:\users\bigol\desktop\repos\udes\ift630\projet\python\sha256\sha256.h(155): warning C4244: '=': conversion from 'unsigned __int64' to 'BYTE', possible loss of data
+c:\users\bigol\desktop\repos\udes\ift630\projet\python\sha256\sha256.h(156): warning C4244: '=': conversion from 'unsigned __int64' to 'BYTE', possible loss of data
+c:\users\bigol\desktop\repos\udes\ift630\projet\python\sha256\sha256.h(157): warning C4244: '=': conversion from 'unsigned __int64' to 'BYTE', possible loss of data
+c:\users\bigol\desktop\repos\udes\ift630\projet\python\sha256\sha256.h(158): warning C4244: '=': conversion from 'unsigned __int64' to 'BYTE', possible loss of data
+c:\users\bigol\desktop\repos\udes\ift630\projet\python\sha256\sha256.h(159): warning C4244: '=': conversion from 'unsigned __int64' to 'BYTE', possible loss of data
+c:\users\bigol\desktop\repos\udes\ift630\projet\python\sha256\sha256.h(160): warning C4244: '=': conversion from 'unsigned __int64' to 'BYTE', possible loss of data
+  sha256.vcxproj -> C:\Users\bigol\Desktop\repos\udes\IFT630\projet\python\sha256\x64\Debug\sha256.dll
